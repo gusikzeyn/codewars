@@ -5,4 +5,4 @@ def areYouPlayingBanjo(name):
         print(name + ' does not play banjo')
 
 # Change Name to Test my Code
-areYouPlayingBanjo('Rfiq')
+areYouPlayingBanjo('Rafiq')
